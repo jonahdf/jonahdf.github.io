@@ -19,3 +19,8 @@ not necessarily worth the walk given limited time to explore Yosemite"%}
 {% include image.html file="tunnel.jpg" width="800" description="Obligatory photo from tunnel view. Stranger took it and airdropped, but surprisingly
 one of the best pictures of us from our entire relationship!" %}
 
+Then, we decided to check out lower Yosemite falls. With a low water season, not as spectacular as always, but still beautiful nonetheless!
+{% include image.html file="falls.jpg" "width="500"%}
+
+On the way back to the car, we were delighted to spot a wild black bear munching on some berries!
+{% include image.html file="bear.jpg" "width=600"%}
