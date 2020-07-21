@@ -32,7 +32,9 @@ at the meadow.
 A few more brutal miles uphill, and our breaths were taken away by the panoramic view of Dewey Point. What a wonderful place to camp. 
 
 {% include image.html file="dew/dewey1.JPEG" width="600" description="El Capitan on the left" %}
+
 {% include image.html file="dew/crocker.JPEG" width="1400" description="Quick half mile detour to crocker point, with nice views of bridalveil falls" %}
+
 {% include image.html file="dew/golden.JPEG" width="600" description="Golden hour looking out from out campsite" %}
 
 The next day, we decided to head back on the Pohono trail towards Taft point, to see more panoramic views and the fissures. We also stopped for a 
