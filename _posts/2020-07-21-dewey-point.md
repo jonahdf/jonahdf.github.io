@@ -27,22 +27,21 @@ On the way back to the car, we were delighted to spot a wild black bear munching
 It was a successful first day. The next morning we set off to the McGurk Meadows trailhead. After a few miles, we arrived
 at the meadow. 
 
-{% include image.html file="dew/meadow.jpg" width="500" description="The meadow was covered in beautiful wildflowers!" %}
+{% include image.html file="dew/meadow.jpeg" width="500" description="The meadow was covered in beautiful wildflowers!"%}
 
 A few more brutal miles uphill, and our breaths were taken away by the panoramic view of Dewey Point. What a wonderful place to camp. 
 
-{% include image.html file="dew/dewey1.jpg" width="600" description="El Capitan on the left" %}
-{% include image.html file="dew/crocker.jpg" width="1400" description="Quick half mile detour to crocker point, with nice views of bridalveil falls" %}
-{% include image.html file="dew/golden.jpg" width="600" description="Golden hour looking out from out campsite" %}
+{% include image.html file="dew/dewey1.JPEG" width="600" description="El Capitan on the left" %}
+{% include image.html file="dew/crocker.JPEG" width="1400" description="Quick half mile detour to crocker point, with nice views of bridalveil falls" %}
+{% include image.html file="dew/golden.JPEG" width="600" description="Golden hour looking out from out campsite" %}
 
 The next day, we decided to head back on the Pohono trail towards Taft point, to see more panoramic views and the fissures. We also stopped for a 
 (not-so-quick) dip in this river. Incredibly cold but certainly refreshing. 
 
-{% include image.html file="dew/river.jpg" width="600" description="" %}
-{% include image.html file="dew/taft.jpg" width="800" description="The infamous fissures of Taft point. Geologic cause is still a mystery" %}
+{% include image.html file="dew/river.JPEG" width="600" description="" %}
+{% include image.html file="dew/taft.JPEG" width="800" description="The infamous fissures of Taft point. Geologic cause is still a mystery" %}
 
 Instead of camping for another night, we opted to just head back to the car. After we realized we burned over 2000 calories that day from hiking, we
 stopped on the way home for a giant In-n-out meal. Double-double, animal fries, AND a shake! Guess I should hike more often...
-
 
 
