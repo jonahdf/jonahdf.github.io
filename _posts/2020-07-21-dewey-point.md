@@ -31,7 +31,7 @@ at the meadow.
 
 A few more brutal miles uphill, and our breaths were taken away by the panoramic view of Dewey Point. What a wonderful place to camp. 
 
-{% include image.html file="dew/dewey1.jpg" width="600" description="El Capitan on the left"}
+{% include image.html file="dew/dewey1.jpg" width="600" description="El Capitan on the left" %}
 {% include image.html file="dew/crocker.jpg" width="1400" description="Quick half mile detour to crocker point, with nice views of bridalveil falls" %}
 {% include image.html file="dew/golden.jpg" width="600" description="Golden hour looking out from out campsite" %}
 
