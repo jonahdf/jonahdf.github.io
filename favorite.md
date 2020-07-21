@@ -2,7 +2,7 @@
 title: Favorite Things
 subtitle: My favorite movies, music, and more!
 layout: "page"
-icon: fa-book
+icon: fa-music
 order: 3
 ---
 
