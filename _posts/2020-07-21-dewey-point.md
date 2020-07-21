@@ -38,7 +38,7 @@ A few more brutal miles uphill, and our breaths were taken away by the panoramic
 The next day, we decided to head back on the Pohono trail towards Taft point, to see more panoramic views and the fissures. We also stopped for a 
 (not-so-quick) dip in this river. Incredibly cold but certainly refreshing. 
 
-{% include image.html file="dew/river.jpg" width="600"
+{% include image.html file="dew/river.jpg" width="600" %}
 {% include image.html file="dew/taft.jpg" width="800" description="The infamous fissures of Taft point. Geologic cause is still a mystery" %}
 
 Instead of camping for another night, we opted to just head back to the car. After we realized we burned over 2000 calories that day from hiking, we
