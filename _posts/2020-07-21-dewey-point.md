@@ -15,3 +15,7 @@ sequoias of the Mariposa grove and show Mia the full experience of tunnel view.
 
 {% include image.html file="assets/images/mariposa.jpg" description="Giant sequoias in the Mariposa grove. Biggest trees I have ever seen, but
 not necessarily worth the walk given limited time to explore Yosemite"%}
+
+{% include image.html file="assets/images/tunnel.jpg" description="Obligatory photo from tunnel view. Stranger took it and airdropped, but surprisingly
+one of the best pictures of us from our entire relationship!" %}
+
