@@ -22,5 +22,5 @@ one of the best pictures of us from our entire relationship!" %}
 Then, we decided to check out lower Yosemite falls. With a low water season, not as spectacular as always, but still beautiful nonetheless!
 {% include image.html file="falls.jpg" width="500" description="" %}
 
-{% include image.html file="bear.jpg" width="600" description="On the way back to the car, we were delighted to spot a wild black bear munching on some berries!
-" %}
+On the way back to the car, we were delighted to spot a wild black bear munching on some berries!
+{% include image.html file="bear.jpg" width="600" %}
