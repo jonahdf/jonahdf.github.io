@@ -1,5 +1,5 @@
 ---
-title: Dewey Point backpacking trip in Yosemite National Park
+title: Dewey Point backpacking trip in Yosemite
 author: Jonah Fleishhacker
 layout: post
 ---
