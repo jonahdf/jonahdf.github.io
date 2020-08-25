@@ -3,15 +3,34 @@ title: Portfolio
 icon: fa-th
 order: 2
 ---
-<p> For an overview of my experiences, check out my <a href="https://linkedin.com/in/jonah-fleishhacker"> LinkedIn</a>
-  or <a href="assets/docs/Jonah-fleishhacker-resume.pdf"> download my resume here </a> </p>
+<style>
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div {
+  padding: 10px;
+  margin:10px;
   
+}
+</style>
+
+<div class="flex-container">
+    <div><a href="assets/docs/Jonah-fleishhacker-resume.pdf" class="button scrolly" target="_blank">Download my resume</a></div>
+    <div><a href="https://linkedin.com/in/jonah-fleishhacker" class="button scrolly" target="_blank">Check out my Linkedin</a></div>
+</div>
+  
+
 <p>In 2020, I built an interactive synthesizer and sequencer using Elm. It features
 many scales, separate keyboard/sequencer input, saving and loading files, and customizable
 BPM, length, and synth types. I really enjoyed making this, and still often play around with
-it for fun! Check it out.</p>
+it for fun! Check it out below</p>
 
-  <div class="row">
+<p>During the summer of 2020, I interned for the Bohdan Khomtchouk lab at UChicago, where I designed an application to visualize force-directed
+  networks in augmented reality on mobile devices. While the project is not open source yet, on the right is an early visualization. Release and paper coming soon. </p>
+
+  <div class="flex-container"> 
     <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="https://synth.jonahdf.com" class="image fit"><img src="assets/images/synth.gif" alt="Elm-synth-sequencer" /></a>
@@ -19,12 +38,7 @@ it for fun! Check it out.</p>
           <h3>Elm Synth Sequencer</h3>
       </div>
     </div>
-  </div>
 
-
-<p> During the summer of 2020, I interned for the Bohdan Khomtchouk lab at UChicago, where I designed an application to visualize force-directed
-  networks in augmented reality on mobile devices. While the project is not open source yet, here is an early visualization. Release and paper coming soon. </p>
-  <div class = "row">
     <div class="4u 12u$(mobile)">
       <div class ="item">
         <a class="image fit"><img src="assets/images/network.gif"> </a>
@@ -33,7 +47,11 @@ it for fun! Check it out.</p>
         </header>
       </div>
     </div>
+
   </div>
+
+
+
 
 
 

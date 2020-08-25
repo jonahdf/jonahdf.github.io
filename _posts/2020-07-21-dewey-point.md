@@ -4,7 +4,7 @@ author: Jonah Fleishhacker
 layout: post
 ---
 
-It has been a long and sedentary quarantine, and I have been greatly missing my rock climbing adventures of last winter and summer.
+It has been a long and sedentary lockdown, and I have been greatly missing my rock climbing adventures of last winter and summer.
 I have been interested in backpacking in a very long time, and since I'm not currently in contact with anyone else who rock climbs,
 it is the most adventurous outdoor activity that I can actually do. For my first ever trip, I decided to head to one of my favorite
 places, Yosemite National Park. The permiting system was easier than I expected: choose a trailhead, make sure it's not reserved for
