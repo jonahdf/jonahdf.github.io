@@ -21,7 +21,8 @@ not necessarily worth the walk given limited time to explore Yosemite"%}
 Then, we decided to check out lower Yosemite falls. With a low water season, not as spectacular as always, but beautiful nonetheless.
 {% include image.html file="dew/falls.jpg" width="500"%}
 On the way back to the car, we were delighted to spot a wild black bear munching on some berries!
-{% include image.html file="dew/bear.jpg" width="600" %}
+
+{% include image.html file="dew/bear.jpg" width="600"%}
 
 It was a successful first day. The next morning we set off to the McGurk Meadows trailhead. After a few miles, we arrived
 at the meadow. 
