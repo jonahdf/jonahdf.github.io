@@ -61,11 +61,12 @@
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		/*font-family: 'Source Sans Pro', sans-serif;*/
+		font-family: "Garamond", sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: rgb(0, 0, 0);
 
 		&.is-loading * {
 			@include vendor('transition', 'none !important');
