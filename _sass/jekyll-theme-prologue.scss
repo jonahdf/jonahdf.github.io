@@ -2,6 +2,7 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 /*
 	Prologue by HTML5 UP
@@ -60,7 +61,7 @@
 
 	body {
 		background: #fff;
-		font-family: "Garamond", sans-serif;
+		font-family: "Source Sans Pro", sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -73,7 +74,7 @@
 	}
 
 	input, textarea, select {
-		font-family: "Garamond", sans-serif;
+		font-family: "Source Sans Pro", sans-serif;
 		font-size: 15pt;
 		-weight: 300;
 		line-height: 1.75em;
